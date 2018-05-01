@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PushAppTest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">PushApp TestTask</string>
+    <string name="nav_header_subtitle">Two games in sidebar</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="game1">Ramses Treasure</string>
+    <string name="game2">Казино Вулкан</string>
+    <string name="text_main">Выбери игру в боковом меню и играй!</string>
+</resources>

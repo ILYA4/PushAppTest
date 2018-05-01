@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/game1"
+            android:icon="@drawable/ic_colorize_black_24dp"
+            android:title="@string/game1" />
+        <item
+            android:id="@+id/game2"
+            android:icon="@drawable/ic_casino_black_24dp"
+            android:title="@string/game2" />
+
+    </group>
+
+
+
+</menu>
